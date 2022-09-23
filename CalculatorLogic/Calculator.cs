@@ -4,7 +4,7 @@ namespace CalculatorLogic
 {
     public static class Calculator
     {
-        public static int Add(int left, int right)
+        public static double Add(double left, double right)
         {
             return left + right;
         }
